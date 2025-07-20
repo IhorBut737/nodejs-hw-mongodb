@@ -11,7 +11,7 @@ tags:
     description: operations about contacts.
 servers:
   - url: http://localhost:3000
-  - url: https://nodejs-hw-mongodb-dteh.onrender.com
+  - url: https://hw7-swagger-u6sc.onrender.com
 paths:
   /contacts:
     get:
